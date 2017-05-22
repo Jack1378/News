@@ -1,0 +1,3 @@
+include ':app', ':magicindicator', ':mobnote', ':viewtext', ':newsdemo2', ':mysharedemo', ':ShareApp', ':my_pictures', ':recyclerviewdemo', ':myrecycleview360', ':recyclerview_mydemo', ':my_pulltorefresh_github', ':pullrefreshdemo'
+project(':newsdemo2').projectDir = new File('newsdemo')
+include ':library'

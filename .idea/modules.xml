@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/News.iml" filepath="$PROJECT_DIR$/News.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShareApp/ShareApp.iml" filepath="$PROJECT_DIR$/ShareApp/ShareApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magicindicator/magicindicator.iml" filepath="$PROJECT_DIR$/magicindicator/magicindicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobnote/mobnote.iml" filepath="$PROJECT_DIR$/mobnote/mobnote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_pictures/my_pictures.iml" filepath="$PROJECT_DIR$/my_pictures/my_pictures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_pulltorefresh_github/my_pulltorefresh_github.iml" filepath="$PROJECT_DIR$/my_pulltorefresh_github/my_pulltorefresh_github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrecycleview360/myrecycleview360.iml" filepath="$PROJECT_DIR$/myrecycleview360/myrecycleview360.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysharedemo/mysharedemo.iml" filepath="$PROJECT_DIR$/mysharedemo/mysharedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newsdemo/newsdemo2.iml" filepath="$PROJECT_DIR$/newsdemo/newsdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullrefreshdemo/pullrefreshdemo.iml" filepath="$PROJECT_DIR$/pullrefreshdemo/pullrefreshdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview_mydemo/recyclerview_mydemo.iml" filepath="$PROJECT_DIR$/recyclerview_mydemo/recyclerview_mydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" filepath="$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewtext/viewtext.iml" filepath="$PROJECT_DIR$/viewtext/viewtext.iml" />
+    </modules>
+  </component>
+</project>
